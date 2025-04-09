@@ -1,1 +1,1 @@
-# helloworld
+helloworldI'm excited to learn how to design and build modern, user-friendly websites. Through this course, I hope to improve my HTML/CSS skills and explore responsive design techniques that work across different devices.
